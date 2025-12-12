@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Nandini 👋🙂
+🎯Aspiring Data Scientist |Python|NumPy|Pandas|Machine Learning learner
 
-<!--
-**nandini-codes-lang/nandini-codes-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🚀About Me
+ . 🔭Currently learning Python, NumPy,Pandas,Data Science basic
+ . 🍃Building small projects to improve my skills 
+ . 🎯Goal: Become a Data Scientist/Dta Analyst
+ . 💡 I love learning new technologies and improving step-by-step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️Skilss & Tools
+ . Languages:Python
+ . Libraries:NumPy,Pandas(learning)
+ . Tools: Git,GitHub,Jupyter Notebook,vs Code
+ .Interests:Data Science Machine Learning,AI
+
+ 📚Current Learning
+ . Python fundamentals
+ . NumPy & Pandas
+ . Data Visualization 
+ . Data Cleaning & EDA
+
+
+📌Projects (coming soon )
+. Python Basics 
+. NumPy Practice 
+. Data Science Learning Notebboks 
+
+📮Connects With Me
+📍Location:Beed,Maharshtra,India
