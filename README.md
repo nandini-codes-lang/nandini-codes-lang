@@ -5,7 +5,7 @@ Hi, I'm Nandini 👋🙂
  🚀About Me
  . 🔭Currently learning Python, NumPy,Pandas,Data Science basic
  . 🍃Building small projects to improve my skills 
- . 🎯Goal: Become a Data Scientist/Dta Analyst
+ . 🎯Goal: Become a  Junior Data Scientist/Data Analyst
  . 💡 I love learning new technologies and improving step-by-step
 
  🛠️Skilss & Tools
@@ -24,7 +24,7 @@ Hi, I'm Nandini 👋🙂
 📌Projects (coming soon )
 . Python Basics 
 . NumPy Practice 
-. Data Science Learning Notebboks 
+. Data Science Learning Notebooks
 
 📮Connects With Me
 📍Location:Beed,Maharshtra,India
